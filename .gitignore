@@ -3,3 +3,5 @@
 **/*.png
 **/*.avi 
 **/.vscode
+**/.vs
+VideoWatermark_cpp/x64
